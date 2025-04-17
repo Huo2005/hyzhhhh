@@ -226,7 +226,7 @@ li::before {
 
 .H.text {
   flex: 1;
-  min-width: 300px;
+  min-width: 200px;
   background: white;
   padding: 1.5rem;
   border-radius: 8px;
